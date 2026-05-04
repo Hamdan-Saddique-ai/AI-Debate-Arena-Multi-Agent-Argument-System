@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" />
+  <img width="1402" height="1122" alt="Image" src="https://github.com/user-attachments/assets/c06d6d5c-0625-4a2d-a9f5-dc8933c95516" />
+
 </p>
 
 <h1 align="center">🤖 AI DEBATE ARENA ⚔️</h1>
