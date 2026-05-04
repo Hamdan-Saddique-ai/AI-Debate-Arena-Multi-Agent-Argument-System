@@ -53,5 +53,17 @@
 
 ---
 
-## 🏗️ Architecture & Flow
+## 🧠 Why This Project?
+Improves critical thinking    
+Shows AI-to-AI reasoning             
+Great for education & research       
+Useful for LLM comparison testing        
+## 🔮 Future Ideas             
+🏆 AI Debate Leaderboard                                        
+🎭 Personality-based debaters (logical, emotional, aggressive)            
+🎤 Voice-based debates              
+📄 PDF export of full debates          
+## ⭐ Show Support                                 
+
+If you like this project, give it a ⭐ on GitHub!                 
 
