@@ -66,4 +66,6 @@ Useful for LLM comparison testing
 ## ⭐ Show Support                                 
 
 If you like this project, give it a ⭐ on GitHub!                 
+## Author
+**Hamdan Saddique**
 
