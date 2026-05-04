@@ -23,7 +23,8 @@
 ## 📸 Live Demo Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/0a0f1e/60a5fa?text=AI+Debate+Arena+Preview" alt="Debate Arena Preview" />
+  <img width="1335" height="597" alt="Image" src="https://github.com/user-attachments/assets/b4c77e73-0127-431b-a6b5-8ba33efa0985" />
+
 </p>
 
 ---
